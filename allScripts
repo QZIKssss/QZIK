@@ -1,0 +1,9 @@
+if game.PlaceId == 5602055394 then 
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/QZIKssss/QZIKSWARE/main/qziksware"))()
+elseif game.PlaceId == 5602055394 then 
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/QZIKssss/qzikschanger/main/qzikschanger"))()
+elseif game.PlaceId == 2788229376 then 
+           loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/QZIKssss/QZIKSWARE/main/qziksware"))()
+        else 
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/QZIKssss/QZIKSWARE/main/qziksware"))()
+end
